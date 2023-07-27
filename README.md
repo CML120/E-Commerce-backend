@@ -34,7 +34,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
   ### License 
-  MIT
   
   [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/.)
 
